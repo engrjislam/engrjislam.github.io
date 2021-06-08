@@ -1,3 +1,3 @@
-function showAlert() {
-  alert("I am an alert box!");
+function showInstruction() {
+  document.getElementById("insturctions").innerHTML = "Please wait for update ...";
 }

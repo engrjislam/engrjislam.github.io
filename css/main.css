@@ -1,3 +1,9 @@
 h1 {
-  color: red
+  color: red;
+  text-align: center;
+}
+
+#insturctions {
+  //color: green;
+  text-align: center;
 }
