@@ -1,2 +1,2 @@
 # Welcome
-Welcome to my personal website! Please visit (my profile)[https://engrjislam.github.io].
+Welcome to my website! Please visit [my profile](https://engrjislam.github.io).
