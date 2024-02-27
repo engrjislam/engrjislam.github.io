@@ -1091,7 +1091,7 @@ section {
 
 .profile-img {
 	height: 300px;
-	width: 21rem;
+	width: 100%;
 }
 
 @media (max-width: 1199px) {
